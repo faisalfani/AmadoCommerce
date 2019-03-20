@@ -11,7 +11,7 @@
 
 ## Fitur
 
-#done
+### done
 
 1.Login <br>
 2.Admin Panel<br>
@@ -19,7 +19,7 @@
 4.Laman Ecommerce<br>
 5.list product<br>
 
-#ongoing
+### ongoing
 
 
    *~~CRUD order~~<br>
@@ -28,7 +28,7 @@
    *~~Checkout~~<br>
 
 
-#Database tersedia pada folder DB_SQL
+#### Database tersedia pada folder DB_SQL
 
 ```
 import database amadocommerce.sql
