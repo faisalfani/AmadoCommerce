@@ -7,4 +7,30 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+# AMADOCOMMERCE
+
+## Yang Berhasil Dibuat
+```
+<ul>
+	<li>Login</li>
+	<li>Admin Panel</li>
+	<li>CRUD PRODUCT</li>
+	<li>Laman Ecommerce</li>
+	<li>list product</li>
+</ul>
+```
+
+
+Database tersedia pada folder DB_SQL
+
+```
+import database amadocommerce.sql
+```
+
+### Installing
+
+```
+cocokan nama database pada file.env 
+```
+
 
