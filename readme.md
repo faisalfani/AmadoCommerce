@@ -9,16 +9,23 @@
 
 # AMADOCOMMERCE
 
-## Yang Berhasil Dibuat
-```
-<ul>
-	<li>Login</li>
-	<li>Admin Panel</li>
-	<li>CRUD PRODUCT</li>
-	<li>Laman Ecommerce</li>
-	<li>list product</li>
-</ul>
-```
+## Fitur
+	``
+	done
+	``
+	-Login
+	-Admin Panel
+	-CRUD PRODUCT
+	-Laman Ecommerce
+	-list product
+	``
+	ongoing
+	``
+	-~~CRUD order~~
+	-~~Cart~~
+	-~~Deail Produk~~
+	-~~Checkout~~
+
 
 
 Database tersedia pada folder DB_SQL
