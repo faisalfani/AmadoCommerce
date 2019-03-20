@@ -13,19 +13,19 @@
 
 #done
 
-1.Login
-2.Admin Panel
-3.CRUD PRODUCT
-4.Laman Ecommerce
-5.list product
+1.Login <br>
+2.Admin Panel<br>
+3.CRUD PRODUCT<br>
+4.Laman Ecommerce<br>
+5.list product<br>
 
 #ongoing
 
 
-   *~~CRUD order~~
-   *~~Cart~~
-   *~~Deail Produk~~
-   *~~Checkout~~
+   *~~CRUD order~~<br>
+   *~~Cart~~<br>
+   *~~Deail Produk~~<br>
+   *~~Checkout~~<br>
 
 
 #Database tersedia pada folder DB_SQL
