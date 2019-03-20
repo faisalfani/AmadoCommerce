@@ -10,17 +10,17 @@
 # AMADOCOMMERCE
 
 ## Fitur
-	``
-	done
-	``
+```
+done
+```
 	-Login
 	-Admin Panel
 	-CRUD PRODUCT
 	-Laman Ecommerce
 	-list product
-	``
-	ongoing
-	``
+```
+ongoing
+```
 	-~~CRUD order~~
 	-~~Cart~~
 	-~~Deail Produk~~
