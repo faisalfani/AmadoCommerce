@@ -10,7 +10,7 @@
 # AMADOCOMMERCE
 
 ## Fitur
-
+```
 done
 ```
 	-Login
@@ -19,7 +19,6 @@ done
 	-Laman Ecommerce
 	-list product
 ```
-
 ongoing
 ```
 
@@ -41,4 +40,3 @@ import database amadocommerce.sql
 ```
 cocokan nama database pada file.env 
 ```
-
