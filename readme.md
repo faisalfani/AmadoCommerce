@@ -10,26 +10,25 @@
 # AMADOCOMMERCE
 
 ## Fitur
-```
-done
-```
-	-Login
-	-Admin Panel
-	-CRUD PRODUCT
-	-Laman Ecommerce
-	-list product
-```
-ongoing
-```
 
-	-~~CRUD order~~
-	-~~Cart~~
-	-~~Deail Produk~~
-	-~~Checkout~~
+#done
+
+1.Login
+2.Admin Panel
+3.CRUD PRODUCT
+4.Laman Ecommerce
+5.list product
+
+#ongoing
 
 
-```
-Database tersedia pada folder DB_SQL
+   *~~CRUD order~~
+   *~~Cart~~
+   *~~Deail Produk~~
+   *~~Checkout~~
+
+
+#Database tersedia pada folder DB_SQL
 
 ```
 import database amadocommerce.sql
