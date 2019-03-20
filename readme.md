@@ -10,7 +10,7 @@
 # AMADOCOMMERCE
 
 ## Fitur
-```
+
 done
 ```
 	-Login
@@ -19,15 +19,17 @@ done
 	-Laman Ecommerce
 	-list product
 ```
+
 ongoing
 ```
+
 	-~~CRUD order~~
 	-~~Cart~~
 	-~~Deail Produk~~
 	-~~Checkout~~
 
 
-
+```
 Database tersedia pada folder DB_SQL
 
 ```
@@ -39,5 +41,4 @@ import database amadocommerce.sql
 ```
 cocokan nama database pada file.env 
 ```
-
 
